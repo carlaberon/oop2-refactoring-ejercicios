@@ -1,4 +1,4 @@
-package ejercicio3;
+package ejercicio4;
 
 import org.jdbi.v3.core.Jdbi;
 
